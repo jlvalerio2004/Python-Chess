@@ -12,7 +12,7 @@ while running:
         if event.type == pygame.QUIT:
             running = False
 
-    screen.fill("purple")
+    screen.fill("beige")
     pygame.display.flip()
 
     clock.tick(60);
