@@ -21,3 +21,6 @@ while running:
 pygame.quit()
 
 print("Welcome to the Chess Game!")
+
+chessboard = chessboard.Chessboard()
+print(chessboard)
